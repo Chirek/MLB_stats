@@ -20,16 +20,27 @@ An interactive Power BI dashboard built on 2025 MLB season data pulled from the 
 
 ## Project Structure
 MLB_stats/
+
 ├── data/
+
 │   ├── raw/                  ← untouched API responses saved as CSV
+
 │   └── processed/            ← cleaned CSVs loaded into Power BI
+
 ├── scripts/
+
 │   ├── collect_data.py       ← pulls batting, pitching, and standings data
+
 │   └── clean_data.py         ← selects columns, renames, filters, exports
+
 ├── powerbi/
+
 │   └── MLB_Dashboard.pbix
+
 ├── screenshots/
+
 ├── requirements.txt
+
 └── README.md
 
 ## Data Source
@@ -42,20 +53,26 @@ All data comes from the **official MLB Stats API** via the
 
 ## How to Run
 1. Clone the repository
+
 git clone https://github.com/Chirek/MLB_stats.git
 
-2. Install dependencies
+3. Install dependencies
+
 pip install -r requirements.txt
 
-3. Collect raw data
+4. Collect raw data
+
 python scripts/collect_data.py
+
 This populates `data/raw/` with three CSV files.
 
-4. Clean the data
+6. Clean the data
+
 python scripts/clean_data.py
+
 This populates `data/processed/` with three cleaned CSV files.
 
-5. Open the dashboard
+8. Open the dashboard
 - Open `powerbi/MLB_Dashboard.pbix` in Power BI Desktop
 - If prompted, update the data source path to your local `data/processed/` folder
 - Click **Refresh**
