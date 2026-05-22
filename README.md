@@ -53,23 +53,23 @@ All data comes from the **official MLB Stats API** via the
 
 ## How to Run
 1. Clone the repository
-
+```bash
 git clone https://github.com/Chirek/MLB_stats.git
-
+```
 3. Install dependencies
-
+```bash
 pip install -r requirements.txt
-
+```
 4. Collect raw data
-
+```bash
 python scripts/collect_data.py
-
+```
 This populates `data/raw/` with three CSV files.
 
 6. Clean the data
-
+```bash
 python scripts/clean_data.py
-
+```
 This populates `data/processed/` with three cleaned CSV files.
 
 8. Open the dashboard
