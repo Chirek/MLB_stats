@@ -1,0 +1,31 @@
+Division,Team,W,L,GB,Win%
+American League East,Toronto Blue Jays,94,68,-,0.58
+American League East,New York Yankees,94,68,-,0.58
+American League East,Boston Red Sox,89,73,5.0,0.549
+American League East,Tampa Bay Rays,77,85,17.0,0.475
+American League East,Baltimore Orioles,75,87,19.0,0.463
+American League Central,Cleveland Guardians,88,74,-,0.543
+American League Central,Detroit Tigers,87,75,1.0,0.537
+American League Central,Kansas City Royals,82,80,6.0,0.506
+American League Central,Minnesota Twins,70,92,18.0,0.432
+American League Central,Chicago White Sox,60,102,28.0,0.37
+American League West,Seattle Mariners,90,72,-,0.556
+American League West,Houston Astros,87,75,3.0,0.537
+American League West,Texas Rangers,81,81,9.0,0.5
+American League West,Athletics,76,86,14.0,0.469
+American League West,Los Angeles Angels,72,90,18.0,0.444
+National League East,Philadelphia Phillies,96,66,-,0.593
+National League East,New York Mets,83,79,13.0,0.512
+National League East,Miami Marlins,79,83,17.0,0.488
+National League East,Atlanta Braves,76,86,20.0,0.469
+National League East,Washington Nationals,66,96,30.0,0.407
+National League Central,Milwaukee Brewers,97,65,-,0.599
+National League Central,Chicago Cubs,92,70,5.0,0.568
+National League Central,Cincinnati Reds,83,79,14.0,0.512
+National League Central,St. Louis Cardinals,78,84,19.0,0.481
+National League Central,Pittsburgh Pirates,71,91,26.0,0.438
+National League West,Los Angeles Dodgers,93,69,-,0.574
+National League West,San Diego Padres,90,72,3.0,0.556
+National League West,San Francisco Giants,81,81,12.0,0.5
+National League West,Arizona Diamondbacks,80,82,13.0,0.494
+National League West,Colorado Rockies,43,119,50.0,0.265
